@@ -7,7 +7,7 @@ Team Members:
 *************
 
 Liam Wyatt
---checked in!
+--checked in! 
 Celia Lee
 Johnny Kang
 

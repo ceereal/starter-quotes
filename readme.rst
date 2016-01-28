@@ -7,9 +7,8 @@ Team Members:
 *************
 
 Liam Wyatt
---checked in! 
 Celia Lee
-Johnny Kang
+Jahun Kang
 
 ******************
 Coding Conventions

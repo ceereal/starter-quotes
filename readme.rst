@@ -7,7 +7,7 @@ Team Members:
 *************
 
 Liam Wyatt - checking in!
-Celia Lee
+Celia Lee - checking in!
 Jahun Kang - checking in!
 
 ******************

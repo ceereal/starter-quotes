@@ -6,7 +6,7 @@ Starter Webapp - Quotes
 Team Members:
 *************
 
-Liam Wyatt
+Liam Wyatt - checking in!
 Celia Lee
 Jahun Kang
 

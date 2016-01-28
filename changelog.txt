@@ -1,0 +1,4 @@
+Change Log Order:
+Newest at top
+
+1/28/2016 10:48 -Liam- Updated the readme to show team members and coding style.

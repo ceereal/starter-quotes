@@ -2,6 +2,20 @@
 Starter Webapp - Quotes
 #######################
 
+*************
+Team Members:
+*************
+
+Liam Wyatt
+Celia Lee
+
+******************
+Coding Conventions
+******************
+
+Allman style
+
+
 This is the starter webapp for Tutorial ci-normal01
 
 It is purposefully broken.

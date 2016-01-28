@@ -8,7 +8,7 @@ Team Members:
 
 Liam Wyatt - checking in!
 Celia Lee
-Jahun Kang
+Jahun Kang - checking in!
 
 ******************
 Coding Conventions
